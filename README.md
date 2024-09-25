@@ -11,7 +11,7 @@
 - **Deletar registros** do banco de dados
 - **Selecionar e recuperar dados** do banco de dados
 
-## Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-%23FF7800?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/SQL-%23003b57?style=for-the-badge&logo=mysql&logoColor=white)
 
