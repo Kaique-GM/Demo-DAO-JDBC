@@ -27,7 +27,7 @@ O objetivo deste projeto é consolidar o entendimento sobre como o JDBC funciona
   
 ## 🎓 Agradecimentos
 
-Este projeto foi realizado como parte do meu aprendizado prático em JDBC (Java Database Connectivity). Através de um curso de Java que estou realizando, tive a oportunidade de aprofundar meus conhecimentos em integração de banco de dados e aplicação de conceitos de DAO (Data Access Object), aprimorando minhas habilidades no desenvolvimento de sistemas orientados a banco de dados.
+Este projeto foi realizado como parte do meu aprendizado prático em JDBC (Java Database Connectivity). Através de um curso de Java que realizei, tive a oportunidade de aprofundar meus conhecimentos em integração de banco de dados e aplicação de conceitos de DAO (Data Access Object), aprimorando minhas habilidades no desenvolvimento de sistemas orientados a banco de dados.
 
 [![Udemy](https://img.shields.io/badge/Udemy-%236300c7?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/java-curso-completo/learn/lecture/10420480#questions)  
 **Confira o curso aqui.**
